@@ -1,6 +1,6 @@
 
-10.5281/zenodo.20004279
-## Data layout (same level as the unpacked archive)
+The Static_gesture and Gesture_free folders are located in https://doi.org/10.5281/zenodo.20004279
+## Data layout
 
 - `Static_gesture/Subject_XX/Day_X/raw.dat` → `--mode 0` (default 14 classes)
 - `Gesture_free/Subject_XX/Day_X/raw.dat` → `--mode 1` (often 6 or 12 classes via `--num_gestures`)
